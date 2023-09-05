@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulprdp
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning React and JavaScript
-- 💞️ I’m looking to collaborate on ReactJs Projects.
+- 🌱 I’m currently learning Angular and JavaScript
+- 💞️ I’m looking to collaborate on Full stack Projects.
 - 📫 rahulprdp17@gmail.com
 
 <!---
